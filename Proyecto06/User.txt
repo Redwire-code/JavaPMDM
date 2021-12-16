@@ -1,2 +1,5 @@
+Nombre de la base de datos: Gym
+--------------------------------
 Usuario de la base de datos: Antonio
+--------------------------------
 Contraseña: netbeans
